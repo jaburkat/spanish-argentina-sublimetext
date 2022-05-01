@@ -1,0 +1,18 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "Language - Spanish - Argentina",
+			"description": "Spanish Argentina spelling language for Sublime Text - Diccionario de Español Argentina para Sublime Text",
+			"author": ["jaburkat"],
+			"details": "https://github.com/jaburkat/Language_ES-AR",
+			"labels": ["spell check", "dictionary", "spanish","Argentina"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		}
+	]
+}
